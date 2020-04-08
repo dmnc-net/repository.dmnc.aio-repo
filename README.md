@@ -9,3 +9,5 @@ Contains direct links to useful repos:
 * repository.linuxserver.docker <sub><sup>base, ext</sup></sub>
 * repository.beam.xbmc-addons
 * repository.xbmc-kodi.cz
+
+zip file short url: https://git.io/Jvx05
