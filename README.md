@@ -1,4 +1,5 @@
-# All-in-one KODI Repository selection <sub><sup>repository.dmnc</sup></sub>
+# All-in-one KODI Repository selection
+#### repository.dmnc
 
 Contains direct links to useful repos:
 * repository.castagnait (Netflix)
