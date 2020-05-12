@@ -8,7 +8,8 @@ Contains direct links to useful repos:
 * repository.plexkodiconnect <sub><sup>stable, beta</sup></sub>
 * repository.linuxserver.docker <sub><sup>base, ext</sup></sub>
 * repository.beam.xbmc-addons
-* repository.cder.sk
+* repository.hacky (SC2) <sub><sup>beta</sup></sub>
+* repository.cder.sk (SC)
 * repository.xbmc-kodi.cz
 
 zip file short url: https://git.io/aiorepo
