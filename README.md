@@ -9,7 +9,6 @@ Contains direct links to useful repos:
 * repository.linuxserver.docker <sub><sup>base, ext</sup></sub>
 * repository.beam.xbmc-addons
 * repository.hacky (SC2) <sub><sup>beta</sup></sub>
-* repository.cder.sk (SC)
 * repository.xbmc-kodi.cz
 
 zip file short url: https://git.io/aiorepo
