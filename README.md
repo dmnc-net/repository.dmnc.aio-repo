@@ -13,4 +13,4 @@ Contains direct links to useful repos:
 * repository.hacky <sub><sup>Stream Cinema Community</sup></sub>
 * repository.xbmc-kodi.cz
 
-zip file short url: https://git.io/aiorepo
+zip file short url: [https://git.io/aiorepo](https://git.io/aiorepo)
