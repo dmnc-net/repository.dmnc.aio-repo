@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+    <addon id="repository.dmnc-aio-repo" name="AIO Repository selection for KODI 18/19" version="0.1" provider-name="DMNC_NET">
+        <extension point="xbmc.addon.repository"/>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="en">All-in-one KODI 18/19 Repository selection</summary>
+            <description lang="en"> - repository.CastagnaIT (netflix)
+ - repository.marcelveldt (Spotify)
+ - repository.emby.kodi
+ - repository.plexkodiconnect
+ - repository.linuxserver.docker
+ - repository.beam.xbmc-addons
+ - repository.hacky (SCC)
+ - repository.xbmc-kodi.cz</description>
+            <platform>all</platform>
+            <news></news>
+        </extension>
+    </addon>
+</addons>
