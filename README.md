@@ -1,7 +1,7 @@
 # All-in-one KODI 18/19 Repository selection
 #### repository.dmnc.aio-repo
 
-![](icon.png)
+![](repository.dmnc.aio-repo/icon.png)
 
 Contains direct links to useful repos:
 * repository.CastagnaIT <sub><sup>Netflix</sup></sub>
